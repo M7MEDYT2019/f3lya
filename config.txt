@@ -1,5 +1,5 @@
 owner=306464381775118336
-prefix=5play
+prefix=5
 game=Break | f3lya
 stayinchannel=true
 songinstatus=true
