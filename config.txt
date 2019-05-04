@@ -1,6 +1,6 @@
 owner=306464381775118336
-prefix=f3lya
-game=Break | f3lya
+prefix=1f3lya
+game=Break | 1f3lya
 stayinchannel=true
 songinstatus=true
 token=NTc0MjkyNDYxNjQ0Njc3MTUx.XM3Rng.ksP3QFLInTDGGohkmihnWVo0Jws
